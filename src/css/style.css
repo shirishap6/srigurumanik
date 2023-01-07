@@ -1,0 +1,67 @@
+.header
+{   
+    
+	height:250px;
+	width:100%;
+    padding:20px; 
+	background: linear-gradient( rgba(208, 10, 182, 0.905), rgb(171, 41, 87));	
+}
+h1
+{
+	
+	  font-weight:bold;
+	  font-family:monotypecorsiva;
+	color:rgba(213, 216, 38, 0.842);
+	font-style:oblique;
+	text-align:center;
+	text-shadow: 1px 1px 2px rgb(183, 196, 70), 0 0 25px rgb(128, 139, 61), 0 0 5px darkblue;
+}
+.navigation_bar
+{   
+    
+	
+	background: linear-gradient( rgb(227, 97, 206), rgb(155, 33, 104));	
+}
+h3
+{
+	text-align:center;
+	font-weight:bold;
+}
+.manik_img
+{
+ 
+ min-height:300px;
+	padding:15px;
+	width:300px;
+	
+   
+}
+
+.subheading
+{
+	font-family:monotypecorsiva;
+	font-weight:bold;
+	font-style:oblique;
+	font-size:2.0em;
+	padding-bottom:20px;
+	color:red;
+	
+}
+.mantram_content
+{
+	
+	min-height:300px;
+	
+	width:300px;  
+}
+
+.footer
+{
+	clear:both;
+	background: linear-gradient( rgba(208, 10, 182, 0.905), rgb(171, 41, 87) );
+	
+	height:70px;
+	color:white;
+	text-align:center;
+	padding:15px;
+}
